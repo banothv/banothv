@@ -1,5 +1,3 @@
-        <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/7d823a84-e804-4f9f-a6a3-eb3ea4e32c48" />
-                                    
 👋Hi, I'm Venkatesh | Data Engineer <br>⚙️ Building reliable ETL/ELT pipelines and data solutions.<br>🐍 Working with Python, SQL, and data engineering tools.<br>📊 Interested in data analytics, data warehousing, and big data technologies.<br>☁️ Exploring cloud platforms, automation, and modern data technologies.<br><br>📍 Hyderabad, India
 
 
