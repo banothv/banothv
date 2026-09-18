@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi, I'm Venkatesh | Data Engineer 👋<br>⚙️ Building reliable ETL/ELT pipelines and data solutions.<br>🐍 Working with Python, SQL, and data engineering tools.<br>📊 Interested in data analytics, data warehousing, and big data technologies.<br>☁️ Exploring cloud platforms, automation, and modern data technologies.<br>📍 Hyderabad, India
+
+Hi, I'm Venkatesh | Data Engineer 👋<br>⚙️ Building reliable ETL/ELT pipelines and data solutions.<br>🐍 Working with Python, SQL, and data engineering tools.<br>📊 Interested in data analytics, data warehousing, and big data technologies.![Uploading 360_F_789463569_PFOIT2kITF76JFmcKOSKnIu398zRUurr.png…]()
+<br>☁️ Exploring cloud platforms, automation, and modern data technologies.<br>📍 Hyderabad, India     
 
 
 ## 🌐 Socials:
