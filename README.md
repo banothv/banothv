@@ -1,4 +1,5 @@
-         https://media.gettyimages.com/id/2150377006/vector/man-working-on-computer.jpg?s=612x612&w=0&k=20&c=oidk0tv_1gZw0Q3gg-pad-hRReok-9X8uaANZLj7Bh4=                                      
+        <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/7d823a84-e804-4f9f-a6a3-eb3ea4e32c48" />
+                                    
 👋Hi, I'm Venkatesh | Data Engineer <br>⚙️ Building reliable ETL/ELT pipelines and data solutions.<br>🐍 Working with Python, SQL, and data engineering tools.<br>📊 Interested in data analytics, data warehousing, and big data technologies.<br>☁️ Exploring cloud platforms, automation, and modern data technologies.<br><br>📍 Hyderabad, India
 
 
