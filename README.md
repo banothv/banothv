@@ -1,4 +1,5 @@
-# 💫 About Me:                                                  <img width="320" height="289" alt="typing_brain_cartoon" src="https://github.com/user-attachments/assets/887cd47b-524e-42b5-8911-a26a3668a996" />
+# 💫 About Me:                                                  <img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/1ab799cf-598a-4528-bf7a-082a5b1c79b9" />
+
 👋Hi, I'm Venkatesh | Data Engineer <br>⚙️ Building reliable ETL/ELT pipelines and data solutions.<br>🐍 Working with Python, SQL, and data engineering tools.<br>📊 Interested in data analytics, data warehousing, and big data technologies.<br>☁️ Exploring cloud platforms, automation, and modern data technologies.<br><br>📍 Hyderabad, India
 
 
